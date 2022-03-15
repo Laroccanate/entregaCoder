@@ -7840,12 +7840,12 @@ h6, .h6 {
     display: flex;
     justify-content: flex-end;
     align-items: center;
-    margin-top: 90px; }
+    margin-top: 70px; }
   .footer--book {
     display: flex;
     justify-content: flex-end;
     align-items: center;
-    margin-top: 90px; } }
+    margin-top: 200px; } }
 
 .main--join {
   padding-top: 7px; }
