@@ -1639,3 +1639,12 @@ $kbd-color:                         $white !default;
 $kbd-bg:                            $gray-900 !default;
 
 $pre-color:                         null !default;
+
+
+$colorPrimario: rgb(0, 0, 0);
+
+$full-ancho: 100%;
+
+header{
+    width:$full-ancho;
+}
