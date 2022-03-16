@@ -7836,16 +7836,11 @@ h6, .h6 {
   font-size: 10px; }
 
 @media only screen and (min-width: 768px) {
-  .footerjoin {
-    display: flex;
-    justify-content: flex-end;
-    align-items: center;
-    margin-top: 70px; }
   .footer--book {
     display: flex;
     justify-content: flex-end;
     align-items: center;
-    margin-top: 200px; } }
+    margin-top: 160px; } }
 
 .main--join {
   padding-top: 7px; }
