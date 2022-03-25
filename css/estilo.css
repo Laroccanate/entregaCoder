@@ -3393,6 +3393,9 @@ textarea.form-control-lg {
   .navbar-dark .navbar-text a:focus {
     color: #fff; }
 
+.navbar {
+  margin-bottom: 4rem; }
+
 .card {
   position: relative;
   display: flex;
@@ -7840,12 +7843,12 @@ h6, .h6 {
     display: flex;
     justify-content: flex-end;
     align-items: center;
-    margin-top: 230px; }
+    margin-top: 160px; }
   .footerjoin {
     display: flex;
     justify-content: flex-end;
     align-items: center;
-    margin-top: 30px; } }
+    margin-top: 80px; } }
 
 .main--join {
   padding-top: 7px; }
@@ -7861,3 +7864,15 @@ h6, .h6 {
 
 .text--bio {
   padding-top: 1rem; }
+
+.footeresp {
+  padding-top: 5rem; }
+
+.footerespbio {
+  padding-top: 4rem; }
+
+.text--bio1 {
+  padding-top: 3rem; }
+
+.text--bio {
+  padding: 1rem; }
